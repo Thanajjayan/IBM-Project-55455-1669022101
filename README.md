@@ -5,7 +5,7 @@
 
 # 📒 PROJECT DESCRIPTION
 
-This Application has been developed to help the customer in processing their complaints.  The customers can raise the ticket with a detailed description of the issue.  An Agent will be assigned to the Customer to solve the problem.  Whenever the agent is assigned to a customer they will be notified with an email alert.  Customers can view the status of the ticket till the service is provided.
+This Application has been developed to help the customer in processing their complaints.  The customers can raise the ticket with a detailed description of the issue.  An Agent will be assigned to the Customer to solve the problem.  Whenever the agent is assigned to a customer they will be notified with an email alert.  Customers can view the status of the ticket. This is very useful for the customers.
 
  ADMIN :
  The main role and responsibility of the admin are to take care of the whole process.  Starting from Admin login followed by the agent creation and assigning the customer's complaints.
